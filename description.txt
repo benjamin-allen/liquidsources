@@ -1,0 +1,1 @@
+This mod allows you to craft sources so that they can be stacked.
